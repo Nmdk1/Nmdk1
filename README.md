@@ -7,15 +7,18 @@ rural Mississippi, training for Boston 2027.
 
 ## What I do with my hands and my mind
 
-I build things. Right now that's [**StrideIQ**](https://github.com/Nmdk1/StrideIQ),
-an AI coaching platform for endurance athletes that turns raw training data into
-causal, athlete-specific insight. Built deep in Cursor for a long time, then
+I build things. Right now that's **StrideIQ**, an AI coaching platform for
+endurance athletes that turns raw training data into causal, athlete-specific
+insight. Built deep in Cursor for a long time, then
 migrated to VS Code with Claude Code and Codex when the orchestrated multi-agent
 configuration started producing architectural work I couldn't get from a
 single-IDE setup.
 
-The repo is public for now. Production system. Real schema, real API surface,
-real testing infrastructure.
+The repository is private now, for IP protection — but it keeps strict codebase
+hygiene: full architectural mappings, blast-radius documentation, and a
+comprehensive developer wiki. It's a real production system — real schema, real
+API surface, real testing infrastructure — and I'm happy to grant read-only
+access to reviewers or engineering leadership on request.
 
 ## What I've done before
 
