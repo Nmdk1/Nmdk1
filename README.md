@@ -1,39 +1,25 @@
 # Michael Shaffer
 
-Physicist. Runner. Photographer. Gourmet cook. Surfer. In that order.
+I build production AI software by directing teams of coding agents. Healthcare
+operator by background, physicist by training.
 
-Lived in Costa Rica for a decade before moving back to the States. Currently in
-rural Mississippi, training for Boston 2027.
+## What I'm building
 
-## What I do with my hands and my mind
-
-I build things. Right now that's **StrideIQ**, an AI coaching platform for
+**StrideIQ** ([strideiq.run](https://strideiq.run)) is an AI coaching platform for
 endurance athletes that turns raw training data into causal, athlete-specific
-insight. Built deep in Cursor for a long time, then
-migrated to VS Code with Claude Code and Codex when the orchestrated multi-agent
-configuration started producing architectural work I couldn't get from a
-single-IDE setup.
+insight. It's a real production system with live users: 1.3M+ lines, 19,000+
+automated tests, 1,150+ pull requests, built by orchestrating Claude Code, Codex,
+and other agents across parallel workstreams under required CI gates.
 
-The repository is private now, for IP protection — but it keeps strict codebase
+I built deep in Cursor for a long time, then moved to VS Code with Claude Code and
+Codex when the orchestrated multi-agent configuration started producing
+architectural work I couldn't get from a single-IDE setup.
+
+The repository is private for IP protection, but it keeps strict codebase
 hygiene: full architectural mappings, blast-radius documentation, and a
-comprehensive developer wiki. It's a real production system — real schema, real
-API surface, real testing infrastructure — and I'm happy to grant read-only
-access to reviewers or engineering leadership on request.
-
-## What I've done before
-
-Founded a healthcare IT company in 2010, the week the iPad launched. Scaled it
-to 200+ employees. Built end-to-end clinical and operational systems that
-managed full patient lifecycles from first touch through final remittance,
-including a sixteen-instrument clinical mass spectrometry program. Underwent a
-full HHS-OIG audit during operating tenure with no citation issued. Sold the
-company in 2018.
-
-Founded a non-depositary mortgage lender in Costa Rica that operated through
-SUGEF authorization. Ran a real estate brokerage in Georgia. Did capital and
-partnerships work on a Costa Rican municipal waste-to-energy initiative,
-including a curated session with the Altru Institute during World Economic
-Forum week in Davos, 2023.
+comprehensive developer wiki. Real schema, real API surface, real testing
+infrastructure. I'm happy to walk reviewers or engineering leadership through it
+on request.
 
 ## How I work
 
@@ -48,11 +34,19 @@ I face problems and solve them. I learn under load. The skills become
 permanent. I taught myself everything I know about clinical lab science,
 mortgage lending in Costa Rica, and applied AI engineering this way.
 
-## What I do when I'm not building
+## What I've done before
 
-Compete in masters distance running. Qualified for Boston 2027 at the Tobacco
-Road Marathon at age 57. Photograph what catches my eye. Cook from markets
-when I can find good ones. Surf when the water's near.
+Founded a healthcare IT company in 2010, the week the iPad launched, and scaled
+it to 200+ employees. Built end-to-end clinical and operational systems that
+managed full patient lifecycles from first touch through final remittance,
+including a sixteen-instrument clinical mass spectrometry program. Underwent a
+full HHS-OIG audit during operating tenure with no citation issued.
+
+Founded a non-depositary mortgage lender in Costa Rica that operated through
+SUGEF authorization. Ran a real estate brokerage in Georgia. Did capital and
+partnerships work on a Costa Rican municipal waste-to-energy initiative,
+including a curated session with the Altru Institute during World Economic
+Forum week in Davos, 2023.
 
 ## The longer arc
 
@@ -62,6 +56,14 @@ father I'm currently teaching to navigate it. Believe the most interesting
 work in AI right now sits at the intersection of agent orchestration, deep
 domain knowledge, and the patience to engineer hallucination out at the data
 layer instead of the prompt layer.
+
+## When I'm not building
+
+Physicist. Runner. Photographer. Gourmet cook. Surfer. Lived in Costa Rica for a
+decade before moving back to the States. Compete in masters distance running;
+qualified for Boston 2027 at the Tobacco Road Marathon at age 57. Photograph what
+catches my eye. Cook from markets when I can find good ones. Surf when the
+water's near.
 
 ## Reach out
 
